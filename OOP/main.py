@@ -35,7 +35,7 @@ def batalla(e1: enemigo, e2: enemigo):
 
     print("============FIN DE LA BATALLA============")
 
-
+ 
 #print(f"{zombie.get_tipo_enemigo()}tiene {zombie.puntos_energia} de energia y puede hacer ataques")
 #print(f"{zombie.habla()}")
 #print(f"{ogro.get_tipo_enemigo()}tiene {ogro.puntos_energia} de energia y puede hacer un ataque")

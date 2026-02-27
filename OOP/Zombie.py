@@ -19,3 +19,4 @@ class zombie(enemigo):
             if funciona_ataque_especial:
                 self.ataque +=2
                 print("zombie ha regenerado su energia con 2HP!!")
+                
